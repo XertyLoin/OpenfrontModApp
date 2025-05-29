@@ -65,11 +65,6 @@ Only mods listed in `active-mods.json` will be activated on launch.
 
 ---
 
-## 📄 License
-
-This project is licensed under the [ISC License](https://opensource.org/licenses/ISC).
-
----
 
 ## ✨ Credits
 
