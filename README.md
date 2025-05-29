@@ -1,6 +1,6 @@
 # OpenFrontApp
 
-OpenFrontApp is a custom Electron-based launcher designed for ([openfront.io](https://github.com/openfrontio/OpenFrontIO). It allows mod management, custom RPC integration with Discord, and supports automatic updates of active mods.
+OpenFrontApp is a custom Electron-based launcher designed for [openfront.io](https://github.com/openfrontio/OpenFrontIO) . It allows mod management, custom RPC integration with Discord, and supports automatic updates of active mods.
 
 ## 🚀 Features
 
